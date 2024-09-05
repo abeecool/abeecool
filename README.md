@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQFAfua3uW2LsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696079159298?e=1730937600&v=beta&t=iYta4sIHRHZjjJFShIf2iuA9K7O3-gbh_9ASO6GPFUE)]
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFAfua3uW2LsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696079159298?e=1730937600&v=beta&t=iYta4sIHRHZjjJFShIf2iuA9K7O3-gbh_9ASO6GPFUE" alt="abeecool">
 
 <h1 align="center">Hi 👋, I'm Abee Cool</h1>
 
